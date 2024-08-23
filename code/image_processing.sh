@@ -1,6 +1,6 @@
 # Directory containing the images
-input_directory="./../data/2019_confocal_cavity"
-output_directory="./../plots/2019_confocal_cavity"
+input_directory="./../data/2019_confocal_cavity/mode_images"
+output_directory="./../plots/2019_confocal_cavity/mode_images"
 
 # Second limit if increased will contain more faint black (inverted), which might include backgnd noise
 
